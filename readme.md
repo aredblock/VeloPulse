@@ -28,7 +28,7 @@ Maven Dependency
 
 The newest version:
 
-[![](https://jitpack.io/v/aredblock/Minestom-virtual.svg)](https://jitpack.io/#aredblock/Minestom-virtual)
+[![](https://jitpack.io/v/aredblock/VeloPulse.svg)](https://jitpack.io/#aredblock/VeloPulse)
 
 ***
 
